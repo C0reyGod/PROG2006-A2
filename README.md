@@ -2,9 +2,6 @@
 
 **Unit:** PROG2006 Designing the User Experience  
 **Assessment:** Assessment 2 - Interactive 2D Story Starter  
-**Student Name:** Keyi Wu  
-**Student Email:** k.wu.18@student.scu.edu.au  
-**GitHub Account:** [C0reyGod](https://github.com/C0reyGod)  
 
 ---
 
@@ -14,8 +11,8 @@
 
 ## Requirements
 
-* **Unity Version**: Unity 2022.3 LTS (or compatible 2022+ version)
-* **Target Platform**: WebGL / PC Standalone
+* **Unity Version**: Unity 2022.3 LTS (2022.3.62f2)
+* **Target Platform**: WebGL / Android
 
 ## How to Run
 
