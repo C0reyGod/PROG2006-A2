@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MidAutumn/Home.unity
+    guid: 2c1c1654fe6e48f43ad11dadefd8f104
+  - enabled: 1
+    path: Assets/Scenes/MidAutumn/MoonGazing.unity
+    guid: c35688a8115645a4da22458a15e5562b
+  - enabled: 1
+    path: Assets/Scenes/MidAutumn/ChasingLight.unity
+    guid: 47a8f480db9436c43be75fbe4ade7d86
+  - enabled: 1
+    path: Assets/Scenes/MidAutumn/LostAndFound.unity
+    guid: f43caecd63ffa804bb1e6da316482a33
+  - enabled: 1
+    path: Assets/Scenes/MidAutumn/MoonGoddess.unity
+    guid: 89e73c2a8a367df48b0ef80e93d2fb6d
+  - enabled: 1
+    path: Assets/Scenes/MidAutumn/Credits.unity
+    guid: 414557792bd16744d85230b4f34ea13a
+  m_configObjects: {}
